@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Eric
 - 👀 I’m interested in Front-End Development
-- 🌱 I’m currently learning JavaScript, React, NextJS
+- 🌱 I’m currently learning JavaScript and React, and I eventually want to get into NextJS and other frameworks
 - 📫 You can reach me on Discord, `pretzL#0001` or on [LinkedIn](https://www.linkedin.com/in/eric-pretzinger-0753551a4/)
 
 <!---
