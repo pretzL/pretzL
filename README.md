@@ -1,7 +1,6 @@
-- 👋 Hi, I’m Eric
-- 👀 I’m interested in Front-End Development, currently studying at Noroff
-- 🌱 I’m currently learning JavaScript and React, and I eventually want to get into other frameworks
-- 📫 You can reach me on Discord, `pretzL#0001` or on [LinkedIn](https://www.linkedin.com/in/eric-pretzinger-0753551a4/)
+Hi, I’m Eric. I’m interested in Front-End Development, currently studying at Noroff. I’m currently learning JavaScript and React, and I eventually want to get into other frameworks
+
+If you would like to get in touch, you can reach me on Discord, `pretzL#0001` or on [LinkedIn](https://www.linkedin.com/in/eric-pretzinger-0753551a4/)
 
 Languages:
 - ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
