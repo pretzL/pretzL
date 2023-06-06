@@ -1,4 +1,4 @@
-:wave: Hi, I’m Eric. I’m interested in Front-End Development, currently studying at Noroff. I’m currently learning JavaScript and I plan to get into React soon. I eventually also want to get into other frameworks.
+:wave: Hi, I’m Eric. I’m interested in Front-End Development, and I currently work for Kabal.
 
 ---
 
